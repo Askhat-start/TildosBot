@@ -69,7 +69,6 @@ google-api-python-client==2.48.0
 google-auth==2.22.0
 google-auth-httplib2==0.1.0
 google-genai==1.30.0
-Google-Images-Search==1.4.6
 google-search==1.1.1
 googleapis-common-protos==1.60.0
 googletrans==3.0.0
@@ -281,4 +280,5 @@ youtube-search==2.1.2
 youtube-watcher==0.10.5
 youtube3==1.2.5
 zstandard==0.23.0
+
 
